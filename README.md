@@ -55,12 +55,6 @@ Using DPlayer on your project? [Let me know!](https://github.com/DIYgod/DPlayer/
 </div>
 
 <div>
-<a href="https://www.9ccms.net" target="_blank">
-    <img width="280px" src="https://i.imgur.com/YBV6kfb.png">
-</a>
-</div>
-
-<div>
 <a href="https://www.dogecloud.com/?ref=dplayer" target="_blank">
     <img width="280px" src="https://i.imgur.com/C2NgugY.png">
 </a>
